@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1699405341 source:c:\users\abhad\onedrive\bureau\enset tp\s1\langage c\mini projet\mini_projet\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdlib.h>
+	"algorithmes.h"
+	"time_spent.h"
+	<math.h>
+	"Gauss.h"
+
+1699402666 c:\users\abhad\onedrive\bureau\enset tp\s1\langage c\mini projet\mini_projet\algorithmes.h
+
+1699395275 c:\users\abhad\onedrive\bureau\enset tp\s1\langage c\mini projet\mini_projet\time_spent.h
+
+1699402869 c:\users\abhad\onedrive\bureau\enset tp\s1\langage c\mini projet\mini_projet\gauss.h
+

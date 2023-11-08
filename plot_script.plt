@@ -1,0 +1,2 @@
+set title 'Graphe : Algorithmes de Tri'
+plot [1000:10000][0:300]'data.txt' using 1:2 with lines title 'Tri par Insertion','data.txt' using 1:3 with lines title 'Tri par Selection','data.txt' using 1:4 with lines title 'Tri par Tas','data.txt' using 1:5 with lines title 'Tri Rapide','data.txt' using 1:6 with lines title 'Tri Fusion','data.txt' using 1:7 with lines title 'Tri Bulle'
